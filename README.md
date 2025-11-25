@@ -19,15 +19,14 @@
 - Machine Learning appliqué aux données réelles  
 - Modélisation statistique  
 - Sécurité des données / Hashing / Chiffrement  
-- Industrialisation de modèles (ML Engineering)
 
 ---
 
 ## 🧪 Projets Data & IA (sélection)
-🔹 Estimation de densité — méthode des noyaux (Python)  
-🔹 Audit de sécurité des données (OWASP)  
-🔹 Implémentation de fonctions de hachage (SHA-256, BLAKE2, MD5)  
-🔹 Projet ML — classification / prédictions (dataset public)
+🔹 Analyse Exploratoire complète datasets (Titanic) /
+🔹  Projet ML — classification / prédictions (dataset public)
+🔹 Projet NLP - Classification de texte 
+🔹 Projet DL — Classification d'images avec le CNN (MNIST, CIFAR)
 
 👉 *Lien vers les repositories ci-dessous*
 
