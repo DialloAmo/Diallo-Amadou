@@ -11,22 +11,21 @@
 - SQL  
 - Data Visualization : Matplotlib, Seaborn, PowerBI  
 - Git, Jupyter, R  
-- Cloud : Azure  
-
 ---
 
 ## 📊 Domaines d’intérêt
-- Machine Learning appliqué aux données réelles  
+- Machine Learning appliquée aux données réelles  
 - Modélisation statistique  
 - Sécurité des données / Hashing / Chiffrement  
 
 ---
 
-## 🧪 Projets Data & IA (sélection)
-🔹 Analyse Exploratoire complète datasets (Titanic) /
-🔹  Projet ML — classification / prédictions (dataset public)
-🔹 Projet NLP - Classification de texte 
-🔹 Projet DL — Classification d'images avec le CNN (MNIST, CIFAR)
+## 🧪 Projets Data & IA
+## Roadmap (2026)
+- ✅ Projet 1 : COVID Analysis — classification + tuning
+- ✅ Projet 2 : Customer Churn Prediction & Business Insights
+- ⏳ Projet 3 : Credit Risk Scoring (stat + ML + calibration + interprétabilité)
+- ⏳ Projet 4 : End-to-End ML Pipeline (prediction + monitoring)
 
 👉 *Lien vers les repositories ci-dessous*
 
@@ -34,6 +33,6 @@
 
 ## 📬 Me contacter
 ✉️ amadoudiallodjikesse@gmail.com  
-🌍 Aubervilliers — France
+- GitHub : https://github.com/DialloAmo
 
 
