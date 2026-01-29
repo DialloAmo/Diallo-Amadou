@@ -1,6 +1,7 @@
 # 👋 Bonjour, je suis Amadou DIALLO
 
-🎓 Master Mathématiques des Données – Sorbonne Paris Nord  
+🎓 Master Algèbre et Applications (Cryptographie)
+🎓 Master Mathématiques des Données – Sorbonne Paris Nord 
 🔍 Data Analyst • Data Scientist Junior • ML Engineer Junior  
 💡 Intérêt : Machine Learning, Deep Learning, Sécurité des données
 
